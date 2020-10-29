@@ -1,11 +1,29 @@
 [//]: <> (Solo modificar el texto entre corchetes [] según lo que se describa)
 
-# [Título de la tarea]
-[Descripción de la tarea tal cuál fue descripta por los tutores (copy&paste del texto).]
+# [Inevstigar Unit Testing y aplicarlo sobre un componente dado]
+[
+Tras haber investigado sobre Unit Testing se tendra que aplicarlo sobre este componente :
+
+https://github.com/vercel/next.js/tree/master/examples/with-jest
+
+]
 
 # Integrantes
- - [Nombre (@usuario)]
- - [Nombre (@usuario)]
+ - [Alejandro Gonzalez (@Alejandrogon1418)]
+ - [Katherine Damirez (@usuario)]
  
 # Resolución
-[Información sobre la resolución de la tarea realizada]
+[
+En en componente dado, ya existen unos archivos .test que estan para testear las librerias del componente y las snapshot.
+Entonces solo quedaria aplicarle los comandos necesarias para correr los test que serian :
+
+```bash
+npm install
+```
+
+```bash
+npm test
+```
+
+
+]
